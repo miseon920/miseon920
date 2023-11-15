@@ -28,7 +28,7 @@
 </div>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miseon920&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miseon920&show_icons=true&theme=radical) -->
 
 #### <div align="center">😊 Communication</div>
 <div align="center">
