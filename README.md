@@ -28,6 +28,8 @@
 </div>
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miseon920&show_icons=true&theme=radical)
+
 #### <div align="center">😊 Communication</div>
 <div align="center">
     <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>&nbsp;
