@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-### <img height="20" width="20" src="https://cdn.simpleicons.org/funimation/#5B0BB5" />Communication
+### <img height="20" width="20" src="https://cdn.simpleicons.org/funimation/#5B0BB5" /> Communication
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-### <img height="20" width="20" src="https://cdn.simpleicons.org/internetcomputer/#3B00B9" /> tools
+### <img height="24" width="24" src="https://cdn.simpleicons.org/internetcomputer/#17AF66" /> tools
 <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Nuxtjs-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-### <img height="20" width="20" src="https://cdn.simpleicons.org/semanticscholar/#DB7093" /> study
+### <img height="24" width="24" src="https://cdn.simpleicons.org/semanticscholar/#DB7093" /> study
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mysql-mysql?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/java-027396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
