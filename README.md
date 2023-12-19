@@ -8,11 +8,10 @@
 <br/>
 
 <div align="center">
-    프론트엔드 주니어 개발자 김미선입니다. <br />
     데이터와 동적 요소들로부터 서비스와 사용자 간 상호작용을 통해 <br />
     문제를 인지하여 긍정적인 경험을 제공하고, <br />
     더불어 문제점을 찾고, 대안을 제시하고 서비스의 본질을 <br />
-    온전히 보여줄 수 있는 시니어개발자가 되는 것이 저의 목표입니다. <br/>
+    온전히 보여줄 수 있는 프론트엔드 개발자가 될것입니다. <br/>
 </div>
 
 ### <div align="center"><img height="20" width="20" src="https://cdn.simpleicons.org/shell/#FFD500" /> skills</div>
