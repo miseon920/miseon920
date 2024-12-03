@@ -1,4 +1,4 @@
-### <div align="center"><img height="20" width="20" src="https://cdn.simpleicons.org/vowpalwabbit/#FF81F9" /> dev_sunny</div>
+### <div align="center">dev_sunny</div>
 <div align="center">
     <a href="https://msweb.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp;
     <a href="mailto:miseon920@gmail.com"><img src="https://img.shields.io/badge/miseon920@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
@@ -14,7 +14,7 @@
     온전히 보여줄 수 있는 프론트엔드 개발자가 될것입니다. <br/>
 </div>
 
-### <div align="center"><img height="20" width="20" src="https://cdn.simpleicons.org/shell/#FFD500" /> skills</div>
+### <div align="center">skills</div>
 <div align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp;
